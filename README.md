@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome + Uk Part + Git Hub; Learning + Building + Improving + Every Day)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+Uk+Park+GitHub;Learning+Building+Improving+Every+Day)](https://git.io/typing-svg)
 
 
 <!--
