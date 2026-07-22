@@ -21,7 +21,7 @@
 <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
     <div align= "left"> 
-      <a href=https://https://ukpark-00.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://ukpark-00.tistory.com/"> </a>
+      <a href=https://ukpark-00.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://ukpark-00.tistory.com/"> </a>
       <a href=mailto:pyy3347@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:pyy3347@gmail.com"> </a>
     </div>
   <br>
